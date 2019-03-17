@@ -5,6 +5,7 @@ This repository contains Jupyter notebooks documenting how to learn near optimal
 ## Tutorials
 
 * [Introduction to learning auctions](learning-auctions-intro.ipynb)
+* [Learning auctions with interdependent values and context](learning-auctions-interdependence.ipynb)
 
 ## Related Papers
 
