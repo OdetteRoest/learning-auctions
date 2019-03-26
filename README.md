@@ -5,7 +5,7 @@ This repository contains Jupyter notebooks documenting how to learn near optimal
 ## Tutorials
 
 * [Introduction to learning auctions](learning-auctions-intro.ipynb)
-* [Are incentives needed?](learning-auctions-are-incentives-needed.ipynb)
+* [Are incentives constraints needed in learning?](learning-auctions-are-incentives-needed.ipynb)
 * [Learning auctions with correlated values and context](learning-auctions-interdependence.ipynb)
 * [Learning position auctions](learning-position-auctions.ipynb)
 
